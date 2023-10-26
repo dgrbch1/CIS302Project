@@ -1,0 +1,14 @@
+#results {
+    display:block;
+    color:brown;
+    border:solid;
+    border-color:blue;
+    background-color: lightgray;
+  }
+  h1{
+    color:brown;
+    border: solid;
+    border-color:blue;
+    background-color: lightgray;
+}
+
